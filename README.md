@@ -1,2 +1,2 @@
-# vitartek/vitartek.github.io
+# vitartek.github.io
 este es una página de prueba para el curso
